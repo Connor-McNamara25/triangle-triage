@@ -1,0 +1,21 @@
+// C++ Test 1.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Programmer: Connor McNamara
+// Date: November 28th, 2021
+// Objective: To create a project to learn C++ and so my professional resume can be improved. 
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "   /|" << endl;
+    cout << "  / |" << endl; 
+    cout << " /  |" << endl;
+    cout << "/___|" << endl;
+
+
+
+    return 0; 
+}
+ 
